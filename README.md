@@ -1,4 +1,5 @@
 # Heart Attack Prediction
+by - Chetan Sarda, Zixuan Zhu, Yinong Yao, Randeep Singh
 
 ## Overview
 This project aims to predict the likelihood of heart attacks based on various health indicators using machine learning techniques. The goal is to assist healthcare professionals in identifying high-risk individuals for preventive measures.
