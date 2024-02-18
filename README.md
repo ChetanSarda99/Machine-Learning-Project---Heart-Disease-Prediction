@@ -9,7 +9,7 @@ To set up the project, install the required packages:
 pip install pandas numpy seaborn matplotlib scikit-learn imbalanced-learn fairlearn shap
 
 ## Data
-The dataset contains health-related features such as age, gender, BMI, smoking status, physical activity, and more. It is preprocessed to handle missing values, encode categorical variables, and normalize numerical features.
+The dataset contains health-related features such as age, gender, BMI, smoking status, physical activity, and more. It is preprocessed to handle missing values, encode categorical variables, and normalize numerical features. Link: https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease
 
 ## Feature Selection
 Features are selected using Recursive Feature Elimination with Cross-Validation (RFECV) to identify the most relevant predictors for heart attack risk.
